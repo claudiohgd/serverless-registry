@@ -1,4 +1,4 @@
-name = "r2-registry"
+name = "claudio-registry"
 
 # Custom Cloudflare domain for worker: 
 # routes = [
